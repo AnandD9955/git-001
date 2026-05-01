@@ -22,4 +22,7 @@ public class Greeting {
     public String getSixthMessage(){
         return "sixth message";
     }
+    public String getSeventhMessage(){
+        return "seventh message";
+    }
 }

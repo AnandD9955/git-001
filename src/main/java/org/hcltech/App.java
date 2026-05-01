@@ -23,5 +23,8 @@ public class App {
 
         String sixthMessage = greeting.getSixthMessage();
         System.out.println(sixthMessage);
+
+        String seventhMessage = greeting.getSeventhMessage();
+        System.out.println(seventhMessage);
     }
 }
