@@ -11,5 +11,8 @@ public class App {
 
         String anotherMessage = greeting.getAnotherMessage();
         System.out.println(anotherMessage);
+
+        String thirdMessage = greeting.getThirdMessage();
+        System.out.println(thirdMessage);
     }
 }

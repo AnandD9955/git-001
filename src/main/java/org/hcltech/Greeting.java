@@ -10,4 +10,7 @@ public class Greeting {
     public String getAnotherMessage(){
         return "Hello world again";
     }
+    public String getThirdMessage(){
+        return "Hello world again again";
+    }
 }
