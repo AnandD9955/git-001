@@ -5,5 +5,8 @@ public class App {
         Greeting greeting = new Greeting();
         String message = greeting.greetingMessage();
         System.out.println("Hello : "+message);
+
+        String specialMessage = greeting.greetingMessage();
+        System.out.println(specialMessage);
     }
 }
