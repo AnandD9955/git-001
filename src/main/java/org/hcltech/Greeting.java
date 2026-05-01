@@ -16,4 +16,7 @@ public class Greeting {
     public String getFourthMessage(){
         return "Hello world again again again";
     }
+    public String getFifthMessage(){
+        return "Hello world again again again again";
+    }
 }

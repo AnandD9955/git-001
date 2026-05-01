@@ -17,5 +17,8 @@ public class App {
 
         String fourthMessage = greeting.getFourthMessage();
         System.out.println(fourthMessage);
+
+        String fifthMessage = greeting.getFifthMessage();
+        System.out.println(fifthMessage);
     }
 }
