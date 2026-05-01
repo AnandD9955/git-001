@@ -1,8 +1,11 @@
 package org.hcltech;
 
 public class Greeting {
-    public String getMessage(){
+    public String greetingMessage(){
         return "Anand Dhanawade";
+    }
+    public String getSpecialMessage(){
+        return "Hello world special";
     }
     public String getAnotherMessage(){
         return "Hello world again";
